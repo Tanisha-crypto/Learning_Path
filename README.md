@@ -140,7 +140,7 @@ npm install
 npm run dev
 ```
 
-Open your browser and navigate to the printed local URL (e.g. `http://localhost:5173` or `http://localhost:5174`).
+Open your browser and navigate to the printed local URL (e.g. `http://localhost:5174`).
 
 ### 3. Build for Production
 ```bash
